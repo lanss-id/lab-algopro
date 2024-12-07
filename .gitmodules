@@ -1,0 +1,3 @@
+[submodule "angkabom"]
+	path = angkabom
+	url = git@github.com:lanss-id/angkabom.git
