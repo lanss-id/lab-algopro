@@ -1,0 +1,3 @@
+ramen#5000
+sushi#10000
+onigiri#15000

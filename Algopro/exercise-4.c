@@ -34,24 +34,7 @@ void bubbleSort(int data[], int size) {
     }
 }
 
-void selectionSor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-t(int data[], int size) {
+void selectionSort(int data[], int size) {
     int minIndex, temp;
     for (int i = 0; i < size - 1; i++) {
         minIndex = i;

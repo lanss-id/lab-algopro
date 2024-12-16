@@ -1,3 +1,9 @@
-[submodule "angkabom"]
-	path = angkabom
+[submodule "submodules/lms-icf"]
+	path = submodules/lms-icf
+	url = git@github.com:lanss-id/lms-icf.git
+[submodule "submodules/be-lms-icf"]
+	path = submodules/be-lms-icf
+	url = git@github.com:lanss-id/be-lms-icf.git
+[submodule "submodules/angkaboms"]
+	path = submodules/angkaboms
 	url = git@github.com:lanss-id/angkabom.git
